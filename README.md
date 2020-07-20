@@ -8,4 +8,4 @@ After manager's details are input , the user can choose to populate details for 
 
 The system will get the array of user answers, transform it into array of objects of respective classes (Manager, Engineer or Intern), and then generate an html based on such team array.
 
-![output](assets/Employee-screenshot.PNG)
+![output](assets/Employee-screenshot.png)
